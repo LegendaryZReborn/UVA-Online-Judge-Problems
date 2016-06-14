@@ -1,0 +1,15 @@
+﻿Build started 2/10/2016 11:16:14 AM.
+     1>Project "D:\UVA problems\Maximum_Sum 108\Maximum_Sum 108\Maximum_Sum 108.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\uva problems\maximum_sum 108\maximum_sum 108\source.cpp(10): warning C4101: 'ct' : unreferenced local variable
+     1>d:\uva problems\maximum_sum 108\maximum_sum 108\source.cpp(10): warning C4101: 'rt' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\UVA problems\Maximum_Sum 108\Debug\Maximum_Sum 108.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\UVA problems\Maximum_Sum 108\Debug\Maximum_Sum 108.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\UVA problems\Maximum_Sum 108\Debug\Maximum_Sum 108.lib" /MACHINE:X86 Debug\Source.obj
+         Maximum_Sum 108.vcxproj -> D:\UVA problems\Maximum_Sum 108\Debug\Maximum_Sum 108.exe
+     1>Done Building Project "D:\UVA problems\Maximum_Sum 108\Maximum_Sum 108\Maximum_Sum 108.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.31
