@@ -1,0 +1,6 @@
+﻿  280Vertex.cpp
+c:\users\cavaughn\documents\visual studio 2015\projects\uva problems\280vertex\280vertex\280vertex.cpp(110): warning C4018: '<': signed/unsigned mismatch
+c:\users\cavaughn\documents\visual studio 2015\projects\uva problems\280vertex\280vertex\280vertex.cpp(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\cavaughn\documents\visual studio 2015\projects\uva problems\280vertex\280vertex\280vertex.cpp(138): warning C4018: '<': signed/unsigned mismatch
+  280Vertex.vcxproj -> C:\Users\Cavaughn\Documents\Visual Studio 2015\Projects\UVA problems\280Vertex\Debug\280Vertex.exe
+  280Vertex.vcxproj -> C:\Users\Cavaughn\Documents\Visual Studio 2015\Projects\UVA problems\280Vertex\Debug\280Vertex.pdb (Full PDB)
